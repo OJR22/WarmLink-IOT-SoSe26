@@ -40,11 +40,11 @@ Endpunkte benötigt):
 
 | Bauteil | Menge | Bemerkung |
 |---|---|---|
-| ESP8266 NodeMCU (Crowtail) | 1 | Mikrocontroller mit WLAN |
-| Temperatur-/Feuchtigkeitssensor (DHT11, Crowtail) | 1 | physischer Input |
-| RGB-LED-Modul (WS2812B, Crowtail) | 1 | physischer Output |
-| Taster (Crowtail Button) | 1 | Verbundenheits-Signal |
-| Micro-USB-Kabel + 5V-Netzteil | 1 | Stromversorgung |
+| ESP8266 NodeMCU (Crowtail) | 2 | Mikrocontroller mit WLAN |
+| Temperatur-/Feuchtigkeitssensor (DHT11, Crowtail) | 2 | physischer Input |
+| RGB-LED-Modul (WS2812B, Crowtail) | 2 | physischer Output |
+| Taster (Crowtail Button) | 2 | Verbundenheits-Signal |
+| Micro-USB-Kabel + 5V-Netzteil | 2 | Stromversorgung |
 
 Zusätzlich, einmalig für das gesamte System:
 
